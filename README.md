@@ -37,7 +37,7 @@ While moving on from the lab, I hope to leverage the different experiences I hav
 
 # Education
 
-##### Makers Academy - Software development bootcamp (June 2020 - Sept 2020) 
+#### Makers Academy - Software development bootcamp (June 2020 - Sept 2020) 
 * Agile Software Development
 * XP Values
 * Test-Driven Development 
@@ -47,11 +47,11 @@ While moving on from the lab, I hope to leverage the different experiences I hav
 * Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine
 * CI/CD: Travis CI, Heroku
 
-##### Oxford University (September 2014 - July 2018) 
+#### Oxford University (September 2014 - July 2018) 
 * MChem Chemistry - 2.i class integrated Master's degree.
 * During my Master's year specialised in Organic Synthesis with a focus on phase-transfer catalysis. 
 
-##### Magdalen College School (Sept 2007 - July 2014) 
+#### Magdalen College School (Sept 2007 - July 2014) 
 * A level Chemistry - A* <br>
 * A level Biology - A* <br>
 * A level Further Mathematics - A* <br>
