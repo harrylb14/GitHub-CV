@@ -117,12 +117,9 @@ Casual Work
 
 
 # Interests
-* Breakdancing for fun and commercially (7 years) - old video https://www.youtube.com/watch?v=0HYstztFd1U
-* Online strategy games.
-* Marvel/DC Universe.
-* Building Gundam/Gunpla
+* Play guitar to a high level and often tour around the country with my band.
+* Very passionate about listening to / going to see music. 
+* Travelled through south-east Asia, China, and Mongolia in 2016 in order to raise money for the Jim Pullin Foundation.
+* Passionate about science with particular interest in Chemistry and space. 
 
-![](bboykay.jpg)
-
-![](gundamkay.jpg)
 
