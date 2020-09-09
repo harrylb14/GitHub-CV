@@ -29,11 +29,11 @@ While moving on from the lab, I hope to leverage the different experiences I hav
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Pac-Trump VR](https://github.com/Kaymo1990/PacTrumpVR) | Looking to put our learning skills to the test, a 5-man team jumped into Unity and used an entirely new language (C#) to build a Pac-Man style game in VR with Trumps chasing you in the maze. | 2 weeks | C#, Unity, Android Studio, Google Cardboard SDK, Blender | NUnit, Unity Testrunner |
-| [Charlie's Angels Acebook (Facebook)](https://github.com/Kaymo1990/acebook---CharliesAngels) [Heroku deployment](https://secure-harbor-32632.herokuapp.com)| A team of 4 came together to recreate our own version of Facebook. The inception of the project was inspired by a team member's name (Charlie) and so we played on the design of the whole project around an angel theme. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI |
-| [SimpleCrypto](https://github.com/Kaymo1990/CryptoProject) [Heroku deployment](https://hidden-cliffs-80375.herokuapp.com/) | An original full-stack web application using Coingecko API to get live pricing data and convert technical analysis into easy to understand statements for the average user  | 1 week |Ruby, Sinatra, HTML/CSS, Heroku | Capybara, Selenium-Webdriver, RSpec, Appveyor CI  |
-| [Kay Cafe](https://github.com/Kaymo1990/Kays-Cafe) [Github deployment](https://kaymo1990.github.io/Kays-Cafe/) | A full-stack app I built which allows a user to enter an order from a cafe's menu, which can then calculate subtotals for receipts.  | 1 week |HTML/CSS, JavaScript | Jasmine  |
-| [Kay Restaurant](https://github.com/Kaymo1990/KayRestaurantCSharp) | A console application connected to the Nexmo API which allows a user to select restaurant orders and receive a text receipt.  | 1 week | C#/.NET, Nexmo | NUnit, MOQ  |
+| Final Project | Makers final project still in progress. | 2 weeks |   |  |
+| [Acebook (Facebook Clone)](https://github.com/harrylb14/acebook-onlyfoursandhorses) [Heroku deployment](https://intense-scrubland-58731.herokuapp.com/)| A team of 4 came together to recreate our own version of Facebook. Authentication system written from scratch. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI\CD |
+| [Hazstagram](https://github.com/harrylb14/instagram-challenge) [Heroku deployment](https://tranquil-reef-21707.herokuapp.com/) | A social media app built from scratch in 2 days, which features posting pictures/text, comments, authentication and a user homepage. | 2 days | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, PostgreSQL, Devise, Heroku | RSpec, Capybara, Travis CI/CD | 
+| [News Summary App](https://github.com/harrylb14/news-summary-challenge) | A single page web-app written in pure Javascript, CSS and HTML. An exercise in making a single page app with asynchronous requests and api integration. Uses the Guardian api to show a summary of recent headlines. | 1 day | Javascript, HTML/CSS | Tests written in pure javascript. |
+
 
 # Education
 
