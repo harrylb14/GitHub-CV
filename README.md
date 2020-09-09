@@ -75,13 +75,13 @@ During my time both as a private tutor, I was tasked with producing positive res
 # Experience
 
 #### Oxford University, Chemistry Teaching Labs (September 2018 - October 2020)
-Specialist Junior Demonstrator
+*Specialist Junior Demonstrator
 
 * I was the primary member of teaching staff for a number of undergraduate experiments.
 * I was involved in the restructuring of the practical course, which included writing and editing a number of undergraduate experiments - introducing students to concepts of Chemistry that they may not have encountered before, and leading them on experiments that demonstrate said concepts.
 * I was responsible for marking both their pre-lab work and post-lab write-up, and for teaching and enforcing safety procedures at all times while in the laboratory.
 
-Laboratory Technician
+*Laboratory Technician
 
 * Assisting with the daily running of the 2 nd / 3 rd year undergraduate teaching lab – including lab upkeep, keeping chemicals stocked and assisting students with their experiments.
 * Enforcing laboratory safety procedures at all times.
@@ -90,7 +90,7 @@ Laboratory Technician
 * In 2019, received full RPS training with focus on the use of X-ray diffractometers.
 
 #### Oxford Royale Academy (June 2017 - August 2017, June 2018 - August 2018)
-Counsellor
+*Counsellor
 
 * Responsible for the pastoral care of students aged 16-18 from 138 different nations over the course of two summers.
 * Involved planning and running activities, and often covering lessons when teachers were not available.
@@ -98,12 +98,12 @@ Counsellor
 * Lessons I taught received excellent reviews from students and senior staff
 
 #### Other Work
-Personal Tutor
+*Personal Tutor
 
 * Teaching several pupils between the ages of 9 and 18 full-time during school holidays, in the subjects of Mathematics, Biology, Chemistry and Physics to A-Level, as well as Englishand Geography up to GCSE level.
 * Gained an excellent reputation with clients – seven new students found purely through word of mouth.
 
-Casual Work 
+*Casual Work 
 
 * Bar Work at various pubs around Oxford has furthered my ability to work as part of a team.
 * As a sales rep for Dixon’s Retail, I learned how to pitch the company’s insurance policy, as well as learning a great deal about technology, customer service, and the sales process in general.
