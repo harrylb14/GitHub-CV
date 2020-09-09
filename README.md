@@ -1,4 +1,4 @@
-<h1 align="center">Harry Lingard-Bright - Software Developer</h1>
+<h1 align="center">Harry Lingard-Bright MChem(OXON)</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/harry-lingard-bright-884b24168/">
 <img src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
