@@ -61,22 +61,16 @@ While moving on from the lab, I hope to leverage the different experiences I hav
 # Skills
 
 #### Technical flexibility
-I've trained at Makers Academy following **TDD** methodology, in addition to **AGILE** and **XP values**. My adaptability developed through working in a diverse range of industries which translated into developing projects in a range of different technologies, including **Ruby**, **Javascript** and **C#**. I have shown good practice when using TDD with an **external reviewer**, following a red-green-refactor cycle and making my code as clean and readable as possible. I've applied this flexibility to understanding different parts of the codebase to better understand the roles and reponsibilites of **our team** and allow better **delegation** of tasks.
+I've trained at Makers Academy following **TDD** methodology, in addition to **AGILE** and **XP values**. My adaptability developed through finding interest in learning new skills and frameworks, which translated into developing projects in a range of different technologies, including **Ruby** and **Javascript**. I have shown good practice when using TDD, following a red-green-refactor cycle and making my code as clean and readable as possible. I've applied this flexibility to understanding different parts of the codebase to better understand the roles and reponsibilites of our team and allow better delegation of tasks.
 
 #### Teamwork and group problem-solving
-I worked within the **financial sales and analytics** department at **Bloomberg** as an **equity specialist** which involved proactively organising visits to client offices.
-This consisted of what the client's workflow looks like and how we can leverage the different products available to optimise their workflow. I would need to liaise with the developers to integrate these **solutions**, through feedback and bugs reported by clients during visits. Through this approach I was able
-to win awards for my proactive work on product campaigns, in addition to **winning a quarterly award** for fastest client resolutions.
+I worked in a research group in 2017-18, during which time I learned how each team member's work contributes to the overall goal of the group. There were many group problem-solving sessions which really increased workflow and team cohesion. I also worked as part of the laboratory teaching staff at the university, and much of my time here was spent problem-solving issues with the course and the laboratory equipment. Science is by definition a problem-solving discipline, and in both positions each team member had their strengths and weaknesses which contributed to reaching a positive outcome. 
 
 #### Very fast learner 
+My academic learning ability is self-evident in my qualifications, but there are many instances in which I have also taken on board new information in a short amount of time. During my role as a Demonstrator, I would often have to teach practicals that did not lie in my area of knowledge, but I was able to learn the required material and then produce and teach a laboratory session that would introduce and enforce this area of chemistry. I also self-taught myself Ruby and Java before joining Makers, as well as teaching myself various musical instruments and music theory. The environment of a software bootcamp is inevitably very fast-paced, and I feel I kept up well with constant new information and relished the oppurtunity to learn as much as possible. 
 
 #### Teaching and training
-During my time on the **Teach First Leadership Development Program**, I was tasked with producing results which met government benchmarks for both my **GCSE and A-level students**.
-I was able to achieve this by having a strong mastery of the curriculum, in addition to an understanding of **scientific pedagogy and learning psychology**.
-I was able to leverage the skills I built as a teacher within my role at Bloomberg, quickly being recognised for my ability to **train clients** and being requested to assist with sales visits and
-client trainings.
-
-
+During my time both as a private tutor, I was tasked with producing positive results for common entrance, GCSE and A-Level students. I was able to achieve this by having a strong mastery of the curriculum, in addition to developing a rapport with my students. I have teaching experience also with my time at Oxford Royale Academy as a substitute chemistry teacher. I was able to leverage the skills I built as a teacher within my role at Oxford, quickly being recognised for my ability to assist students and help materialise theoretical knowledge into a laboratory environment.
 
 # Experience
 
