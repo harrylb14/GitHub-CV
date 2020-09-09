@@ -8,22 +8,22 @@
 [Motivation ](#Motivation?) |
 [Background ](#Background) |
 [Projects ](#projects) |
+[Education ](#education) |
 [Skills ](#skills) |
 [Experience ](#experience) |
-[Education ](#education) |
 [Interests ](#interests)
 
 </div>
 
 # Motivation
 
-I first experienced programming during my time as a Demonstrator in the undergraduate Chemistry labs at Oxford University. During a complete restructuring of the practical course, an introduction to programming was introduced - which while regrettably not offered during my time there as an undergraduate, sparked my interest in the field. After speaking to developers and experienced coders in the department about the industry, I began self-learning for about six months before taking the leap and investing in coding as a career by enrolling in Makers Academy. It had become clear to me how much nearly every facet of the modern world relied on these skills, and I knew that the front-line of this ever-growing technological landscape was where I wanted to be. Science has been a passion of mine during my entire life and indeed more than that during my time at the university - however, I found excitement in the prospect of leaving the lab and throwing myself into the world of software.
+I first experienced programming during my time as a Demonstrator in the undergraduate Chemistry labs at Oxford University. During a complete restructuring of the practical course, an introduction to programming was introduced - which while regrettably not offered during my time there as an undergraduate, sparked my interest in the field. After speaking to developers and experienced coders in the department about the industry, I began self-learning for about six months before taking the leap and investing in coding as a career by undertaking the Makers Academy course while furloughed from my current position. It had become clear to me how much nearly every facet of the modern world relied on these skills, and I knew that the front-line of this ever-growing technological landscape was where I wanted to be. Science has been a passion of mine during my entire life and indeed more than that during my time at the university - however, I found excitement in the prospect of leaving the lab and throwing myself into the world of software.
 
 # Background
 
 I'm an alumnus of [Makers](https://makers.tech/), and a **full-stack Software Engineer**. My background is in Chemistry, having spent four years completing my Undergraduate and Master's Degrees at the University of Oxford, before spending two years as a Technician, Demonstrator and Teaching Assistant in their new labs, during which time I was involved in the restructure of the course and in writing and teaching a variety of practicals to students. These experiences have given me invaluable analytical, practical, and critical skills. The academic attainment needed to enroll and complete said degree is self-evident, and the completion of an extensive thesis based on original research demonstrates my ability to motivate my own work and to follow tasks to completion. Working in a research group during my Master's project and part of the teaching staff in the years following has also given me vital group problem-solving attributes. 
 
-While moving on from this background, I hope to leverage the different experiences I have gained to support the development of my colleagues, the company and myself.
+While moving on from the lab, I hope to leverage the different experiences I have gained to support the development of my colleagues, the company and myself.
 
 
 # Projects
@@ -35,15 +35,40 @@ While moving on from this background, I hope to leverage the different experienc
 | [Kay Cafe](https://github.com/Kaymo1990/Kays-Cafe) [Github deployment](https://kaymo1990.github.io/Kays-Cafe/) | A full-stack app I built which allows a user to enter an order from a cafe's menu, which can then calculate subtotals for receipts.  | 1 week |HTML/CSS, JavaScript | Jasmine  |
 | [Kay Restaurant](https://github.com/Kaymo1990/KayRestaurantCSharp) | A console application connected to the Nexmo API which allows a user to select restaurant orders and receive a text receipt.  | 1 week | C#/.NET, Nexmo | NUnit, MOQ  |
 
+# Education
+
+##### Makers Academy - Software development bootcamp (June 2020 - Sept 2020) 
+* Agile Software Development
+* XP Values
+* Test-Driven Development 
+* Languages: Ruby, Javascript (Jquery), HTML/CSS
+* Web Frameworks: Ruby on Rails, Sinatra
+* Databases: PostgreSQL
+* Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine
+* CI/CD: Travis CI, Heroku
+
+##### Oxford University (September 2014 - July 2018) 
+* MChem Chemistry - 2.i class integrated Master's degree.
+* During my Master's year specialised in Organic Synthesis with a focus on phase-transfer catalysis. 
+
+##### Magdalen College School (Sept 2007 - July 2014) 
+* A level Chemistry - A* <br>
+* A level Biology - A* <br>
+* A level Further Mathematics - A* <br>
+* A level Mathematics - A* <br>
+* AS level English Literature - A <br>
+
 # Skills
 
 #### Technical flexibility
 I've trained at Makers Academy following **TDD** methodology, in addition to **AGILE** and **XP values**. My adaptability developed through working in a diverse range of industries which translated into developing projects in a range of different technologies, including **Ruby**, **Javascript** and **C#**. I have shown good practice when using TDD with an **external reviewer**, following a red-green-refactor cycle and making my code as clean and readable as possible. I've applied this flexibility to understanding different parts of the codebase to better understand the roles and reponsibilites of **our team** and allow better **delegation** of tasks.
 
-#### Client management
+#### Teamwork and group problem-solving
 I worked within the **financial sales and analytics** department at **Bloomberg** as an **equity specialist** which involved proactively organising visits to client offices.
 This consisted of what the client's workflow looks like and how we can leverage the different products available to optimise their workflow. I would need to liaise with the developers to integrate these **solutions**, through feedback and bugs reported by clients during visits. Through this approach I was able
 to win awards for my proactive work on product campaigns, in addition to **winning a quarterly award** for fastest client resolutions.
+
+#### Very fast learner 
 
 #### Teaching and training
 During my time on the **Teach First Leadership Development Program**, I was tasked with producing results which met government benchmarks for both my **GCSE and A-level students**.
@@ -51,70 +76,45 @@ I was able to achieve this by having a strong mastery of the curriculum, in addi
 I was able to leverage the skills I built as a teacher within my role at Bloomberg, quickly being recognised for my ability to **train clients** and being requested to assist with sales visits and
 client trainings.
 
-#### Data analysis
-Whilst supporting clients with their **financial data models**, I used both **excel** and a proporietary **quantitative analysis** platform within Bloomberg. I had to work with data packages and translate
-the client's models into either excel using a **Bloomberg data API** or build it within the platform. This included clients across all asset classes, however the majority of the work
-was supporting portfolio managers with data screening for equities.
+
 
 # Experience
 
-#### Bloomberg L.P. - LONDON, EC4N 4TQ (September 2018 - June 2019)
-Equity Specialist
+#### Oxford University, Chemistry Teaching Labs (September 2018 - October 2020)
+Specialist Junior Demonstrator
 
-* Supported implementation of Bloomberg Excel API across multiple hedge funds and helped clients build portfolios using proprietary software for strategy backtesting, leading to
-additional successful sales.
+* I was the primary member of teaching staff for a number of undergraduate experiments.
+* I was involved in the restructuring of the practical course, which included writing and editing a number of undergraduate experiments - introducing students to concepts of Chemistry that they may not have encountered before, and leading them on experiments that demonstrate said concepts.
+* I was responsible for marking both their pre-lab work and post-lab write-up, and for teaching and enforcing safety procedures at all times while in the laboratory.
 
-* Trained clients on using new software on-site and remotely, while building and managing relationships. This included analysis of their existing workflow and working alongside the client 
-to identify which products could be leveraged and supporting them with implementation and restructuring of their workflow.
+Laboratory Technician
 
-![](bloombergkay.jpg)
+* Assisting with the daily running of the 2 nd / 3 rd year undergraduate teaching lab – including lab upkeep, keeping chemicals stocked and assisting students with their experiments.
+* Enforcing laboratory safety procedures at all times.
+* Outside of term time, I was involved in outreach events with both primary and secondary schools who came to gain insight into what studying Chemistry would be like.
+* I was heavily involved in developing the undergraduate Chemistry course, testing and improving experiments as well as applying my own skills to develop new ones.
+* In 2019, received full RPS training with focus on the use of X-ray diffractometers.
 
-#### Walthamstow Academy / Teach First - LONDON, E17 5DP (September 2016 - August 2018)
-Teacher of Science
+#### Oxford Royale Academy (June 2017 - August 2017, June 2018 - August 2018)
+Counsellor
 
-* Taught KS3, GCSE (combined and triple science) and A-level biology to students, while upholding high expectations of behaviour, student aspirations and instilling British values.
-Subsequently graded as an outstanding teacher for my practice with positive feedback from Ofsted (2017) inspections.
+* Responsible for the pastoral care of students aged 16-18 from 138 different nations over the course of two summers.
+* Involved planning and running activities, and often covering lessons when teachers were not available.
+* Counsellors were the first point of contact for all students.
+* Lessons I taught received excellent reviews from students and senior staff
 
-* Supported planning for GCSE and A-level lessons to meet curriculum specifications, while assuming head of biology duties. I completed all CPAC qualifications and was able to 
-conduct and grade students for A-level practical examinations.
+#### Other Work
+Personal Tutor
 
-![](tfkay.jpg)
+* Teaching several pupils between the ages of 9 and 18 full-time during school holidays, in the subjects of Mathematics, Biology, Chemistry and Physics to A-Level, as well as Englishand Geography up to GCSE level.
+* Gained an excellent reputation with clients – seven new students found purely through word of mouth.
 
-#### Centre for Stem Cells and Regenerative Medicine - LONDON SE1 9RT (January 2015 - December 2015)
-Research assistant
-* Tasked with developing a pipeline for filtering mouse embryonic fibroblasts (MEFs) from human induced pluripotent stem cell (hIPSCs) culture.
+Casual Work 
 
-* Followed strict good lab practice (GLP) and research methodology to contribute to the research group's research paper which was subsequently published in NCBI.
+* Bar Work at various pubs around Oxford has furthered my ability to work as part of a team.
+* As a sales rep for Dixon’s Retail, I learned how to pitch the company’s insurance policy, as well as learning a great deal about technology, customer service, and the sales process in general.
 
-![](stemcellkay.png)
 
-# Education
-
-##### Makers Academy - Software development bootcamp (June 2019 - Sept 2019) 
-* Agile Software Development
-* XP Values
-* TDD
-* Languages: Ruby, Javascript (Jquery), C#, HTML/CSS
-* Web Frameworks: Sinatra, Ruby on Rails
-* Databases: PostgreSQL, SQLite
-* Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine, Unity Testrunner, Nunit
-* CI/CD: Travis CI, Heroku
-
-##### Canterbury Christ Church University (September 2016 - August 2017) 
-* PGCE Science - Pass (final review graded as Outstanding)
-
-##### King's College London (September 2014 - September 2015) 
-* MSc Biomedical and Molecular Research - Pass with Merit
-
-##### King's College London (September 2010 - August 2013)
-* BSc Hons Pharmacology - Upper Second Class with Honours
-
-##### Campbell Harris College (Sept 2008 - July 2010) 
-* A level Chemistry - A <br>
-* A level Biology - A <br>
-* A level Mathematics - B <br>
-* A level English language and literature - B <br>
-* AS level Physics - B <br>
 
 # Interests
 * Breakdancing for fun and commercially (7 years) - old video https://www.youtube.com/watch?v=0HYstztFd1U
