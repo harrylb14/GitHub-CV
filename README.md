@@ -42,10 +42,10 @@ While moving on from the lab, I hope to leverage the different experiences I hav
 * XP Values
 * Test-Driven Development 
 * Languages: Ruby, Javascript (Jquery), HTML/CSS
-* Web Frameworks: Ruby on Rails, Sinatra
+* Web Frameworks: Ruby on Rails, React, Sinatra
 * Databases: PostgreSQL
-* Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine
-* CI/CD: Travis CI, Heroku
+* Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine, Jest
+* CI/CD: Travis CI, Heroku, Netlify
 
 #### Oxford University (September 2014 - July 2018) 
 * MChem Chemistry - 2.i class integrated Master's degree.
